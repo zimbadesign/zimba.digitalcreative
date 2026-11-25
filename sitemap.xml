@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.zimbacom.com/</loc>
+    <image:image><image:loc>https://www.zimbacom.com/assets/portfolio-01.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.zimbacom.com/assets/portfolio-02.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.zimbacom.com/assets/portfolio-03.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.zimbacom.com/assets/portfolio-04.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.zimbacom.com/assets/portfolio-05.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.zimbacom.com/assets/portfolio-06.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.zimbacom.com/assets/portfolio-07.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.zimbacom.com/assets/portfolio-08.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.zimbacom.com/assets/portfolio-09.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.zimbacom.com/assets/portfolio-10.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.zimbacom.com/assets/portfolio-11.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.zimbacom.com/assets/portfolio-12.jpg</image:loc></image:image>
+  </url>
+</urlset>
